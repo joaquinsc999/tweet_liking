@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jsolorzano/Desktop/joaquin/tweets_liking_prediction/mlruns/771541984127756303/6ea3ce16809948b9be8cb6422047a3c3/artifacts
+end_time: 1740288431505
+entry_point_name: ''
+experiment_id: '771541984127756303'
+lifecycle_stage: active
+run_id: 6ea3ce16809948b9be8cb6422047a3c3
+run_name: Neural Network Model
+run_uuid: 6ea3ce16809948b9be8cb6422047a3c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740288428440
+status: 4
+tags: []
+user_id: jsolorzano

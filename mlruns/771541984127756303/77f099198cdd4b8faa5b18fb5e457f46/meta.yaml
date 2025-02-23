@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jsolorzano/Desktop/joaquin/tweets_liking_prediction/mlruns/771541984127756303/77f099198cdd4b8faa5b18fb5e457f46/artifacts
+end_time: 1740287945707
+entry_point_name: ''
+experiment_id: '771541984127756303'
+lifecycle_stage: active
+run_id: 77f099198cdd4b8faa5b18fb5e457f46
+run_name: XGBoost Model
+run_uuid: 77f099198cdd4b8faa5b18fb5e457f46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740287869097
+status: 3
+tags: []
+user_id: jsolorzano

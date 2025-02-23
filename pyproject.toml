@@ -1,0 +1,13 @@
+[project]
+name = "tweets-liking-prediction"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mlflow>=2.20.2",
+    "notebook>=7.3.2",
+    "openai>=1.64.0",
+    "scikit-learn>=1.6.1",
+    "xgboost>=2.1.4",
+]

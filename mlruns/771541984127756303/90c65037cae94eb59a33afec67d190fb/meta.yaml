@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jsolorzano/Desktop/joaquin/tweets_liking_prediction/mlruns/771541984127756303/90c65037cae94eb59a33afec67d190fb/artifacts
+end_time: 1740287970947
+entry_point_name: ''
+experiment_id: '771541984127756303'
+lifecycle_stage: active
+run_id: 90c65037cae94eb59a33afec67d190fb
+run_name: RandomForest Model
+run_uuid: 90c65037cae94eb59a33afec67d190fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740287945739
+status: 3
+tags: []
+user_id: jsolorzano
